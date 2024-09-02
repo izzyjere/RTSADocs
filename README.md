@@ -1,6 +1,8 @@
 # Document Management System
 System Concept
 
+ASP.NET Core 8 Blazor + MudBlazor
+
 Requirements : NET 8 SDK
 Microsoft SQL Server
 
